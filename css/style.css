@@ -269,6 +269,7 @@ img {
   border-radius: 50%;
 }
 .profile-body {
+  text-align: center;
   flex: 1;
 }
 
